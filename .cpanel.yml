@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/public_html/TK8Q5ZWUBot
-    - /bin/cp bot.py $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
