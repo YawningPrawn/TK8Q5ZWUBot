@@ -1,4 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/TeleBot
+    - export DEPLOYPATH=/home/user/public_html/TK8Q5ZWUBot
+    - /bin/cp index.php $DEPLOYPATH
